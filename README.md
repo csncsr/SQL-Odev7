@@ -1,0 +1,2 @@
+# SQL-Odev7
+GROUP BY HAVING Yapısı
